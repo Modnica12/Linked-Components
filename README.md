@@ -1,4 +1,4 @@
-###DFS algorithm to find linked components in graph.
+### DFS algorithm to find linked components in graph.
 
 pass input and output filenames as script arguments
 
