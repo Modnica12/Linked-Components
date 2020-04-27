@@ -1,5 +1,7 @@
 ### DFS algorithm to find linked components in graph.
 
+by Щербаков Кирилл
+
 pass input and output filenames as script arguments
 
 first line - number of components

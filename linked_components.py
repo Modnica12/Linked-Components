@@ -1,8 +1,5 @@
-import sys
-
-
-input_filename = sys.argv[1]
-output_filename = sys.argv[2]
+input_filename = 'input.txt'
+output_filename = 'output.txt'
 input_file = open(input_filename, 'r')
 output_file = open(output_filename, 'w')
 
